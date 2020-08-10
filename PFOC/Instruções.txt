@@ -1,0 +1,20 @@
+Para executar o código deve-se primeiramente inserir os dados de entrada no arquivo "Dados de entrada.xlsx", em sequência salvá-lo e executar o arquivo "Principal_final.py". 
+Recomenda-se a utilização da IDE Pycharm. 
+
+
+Salienta-se que para funcionamento do algoritmo as seguintes bibliotecas devem estar instaladas na IDE escolhida:
+
+et-xmlfile	
+jdcal	
+numpy	
+openpyxl	
+pandas	
+python-dateutil	
+pytz	
+scipy	
+six	
+xlrd
+
+
+Contato:
+danieldgrossmann@gmail.com	

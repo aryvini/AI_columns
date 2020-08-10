@@ -1,0 +1,385 @@
+COMEÇANDO O RELATÓRIO DE:
+ARY
+
+
+
+[1;36m1 DADOS DE ENTRADA[m
+
+[1;36m1.1 Dados iniciais[m
+P1
+
+[1;36m1.2 Esforços de projeto[m
+Nsk = 250.71 kN
+Msk,x-topo = 1560.00 kNcm
+Msk,x-base = -1560.00 kNcm
+Msk,y-topo = 1830.00 kNcm
+Msk,y-base = -1830.00 kNcm
+
+[1;36m1.3 Critérios de projeto[m
+PDE = 320 cm
+Viga em x/Laje em x = 40 cm
+Viga em y/Laje em y  = 50 cm
+Δc = 10 mm
+CAA = 2
+
+[1;36m1.4 Faixas de materiais[m
+Aço
+   Ø (mm)   R$/m
+0     5.0   0.58
+1     6.3   1.23
+2    10.0   2.42
+3    12.5   4.28
+4    16.0   6.96
+5    20.0  10.88
+
+Concreto
+    fck (MPa)   R$/m³
+0         25  271.45
+1         30  283.90
+
+Formas
+Retangular: 38.33 R$/m²
+Circular: 41.29 R$/m²
+
+[1;36m1.5 Parâmetros da seção transversal[m
+Geometria escolhida: retangular
+
+
+
+[1;34m2 RELATÓRIOS[m
+
+[1;34m2.1 AE possíveis [m
+Há 44 soluções possíveis (a serem verificadas).
+
+[1;34m2.2 Número de soluções verificadas[m
+1
+
+[1;34m2.3 Solução mais econômica[m
+1 - Resistencia e dados da seção
+  • fck = 30.0 MPa
+  • base = 20.0 cm
+  • Altura = 30.0 cm
+  • C = 3.0 cm;
+
+2 - Dados da armadura
+2.1 - Armadura longitudinal
+    • Øl = 10.0 mm
+    • Nx = 2
+    • Ny = 2
+    • Aso = 3.14 cm²
+
+2.2 - Transversal
+    • St = 12.00 cm
+    • Øt = 5.0 mm
+    • Comp. estribo = 87.50 cm
+    • Ngx = 0
+    • Ngy = 0
+
+3 - Custo total (Concreto + Aço + fôrmas)
+  • Custo = 69.61 R$/m
+
+[1;34m2.4 Esforços de cálculo[m
+1 - Classificação do pilar: Canto;
+2 - Esforços de cálculo:
+  • Msk,x-topo = 2184.00 kNcm - Msk,x-base = -2184.00 kNcm;
+  • Msk,y-topo = 2562.00 kNcm - Msk,y-base = -2562.00 kNcm;
+3 - Esforço normal de cálculo: 351.00 kN;
+4 - Excentricidades de projeto (características): 
+  • e1x = 6.22 cm - e1y = 7.30 cm;
+5 - Comprimentos de flambagem: lex = 300.00 cm - ley = 300.00 cm;
+6 - Esbeltez: λx = 51.96 - λy = 34.64;
+7 - Momentos mínimos: 737.10 kNcm - 842.40 kNcm;
+8 - Esbeltez limite: λ1x = 72.22 - λ1y = 70.10;
+8 - Efeitos de segunda ordem no eixo x: Desprezados;
+9 - Efeitos de segunda ordem no eixo y: Desprezados;
+
+10 - Tabela com situações de cálculo:
+
+   Mdx (kNcm)  Mdy (kNcm)
+0      2184.0      2562.0
+
+[1;34m2.5 Verificação da seção à FCO - S.C 0[m
+• Parâmetros principais:
+alfa = -63.28°
+x = 15.25 cm
+d1 = 25.98 cm
+Ha = 31.35 cm
+ymax = 15.68 cm
+Aso = 3.14 cm²
+
+• Verificação em si:
+ER/ES = 1.0307. Verifica!
+
+[1;34m2.6 Dados gerais[m
+
+[1;34m2.6.1 Tempo de execução[m
+Tempo total de execução = 0.53 segundos.
+
+[1;34m2.6.2 Data de execução[m
+12/12/2019 - 20:17
+####################################################################################################################################################################################################################################################################################### 
+ 
+ 
+[1;36m1 DADOS DE ENTRADA[m
+
+[1;36m1.1 Dados iniciais[m
+P2
+
+[1;36m1.2 Esforços de projeto[m
+Nsk = 450.87 kN
+Msk,x-topo = 1964.30 kNcm
+Msk,x-base = -1964.30 kNcm
+Msk,y-topo = 0.00 kNcm
+Msk,y-base = 0.00 kNcm
+
+[1;36m1.3 Critérios de projeto[m
+PDE = 320 cm
+Viga em x/Laje em x = 50 cm
+Viga em y/Laje em y  = 45 cm
+Δc = 10 mm
+CAA = 2
+
+[1;36m1.4 Faixas de materiais[m
+Aço
+   Ø (mm)   R$/m
+0     5.0   0.58
+1     6.3   1.23
+2    10.0   2.42
+3    12.5   4.28
+4    16.0   6.96
+5    20.0  10.88
+
+Concreto
+    fck (MPa)   R$/m³
+0         25  271.45
+1         30  283.90
+
+Formas
+Retangular: 38.33 R$/m²
+Circular: 41.29 R$/m²
+
+[1;36m1.5 Parâmetros da seção transversal[m
+Geometria escolhida: retangular
+
+
+
+[1;34m2 RELATÓRIOS[m
+
+[1;34m2.1 AE possíveis [m
+Há 78 soluções possíveis (a serem verificadas).
+
+[1;34m2.2 Número de soluções verificadas[m
+0
+
+[1;34m2.3 Solução mais econômica[m
+1 - Resistencia e dados da seção
+  • fck = 25.0 MPa
+  • base = 20.0 cm
+  • Altura = 45.0 cm
+  • C = 3.0 cm;
+
+2 - Dados da armadura
+2.1 - Armadura longitudinal
+    • Øl = 10.0 mm
+    • Nx = 3
+    • Ny = 2
+    • Aso = 4.71 cm²
+
+2.2 - Transversal
+    • St = 12.00 cm
+    • Øt = 5.0 mm
+    • Comp. estribo = 117.50 cm
+    • Ngx = 0
+    • Ngy = 0
+
+3 - Custo total (Concreto + Aço + fôrmas)
+  • Custo = 94.91 R$/m
+
+[1;34m2.4 Esforços de cálculo[m
+1 - Classificação do pilar: Extremidade;
+2 - Esforços de cálculo:
+  • Msk,x-topo = 2750.02 kNcm - Msk,x-base = -2750.02 kNcm;
+  • Msk,y-topo = 0.00 kNcm - Msk,y-base = 0.00 kNcm;
+3 - Esforço normal de cálculo: 631.22 kN;
+4 - Excentricidades de projeto (características): 
+  • e1x = 4.36 cm - e1y = 0.00 cm;
+5 - Comprimentos de flambagem: lex = 290.00 cm - ley = 320.00 cm;
+6 - Esbeltez: λx = 50.23 - λy = 24.63;
+7 - Momentos mínimos: 1325.56 kNcm - 1798.97 kNcm;
+8 - Esbeltez limite: λ1x = 69.31 - λ1y = 35.00;
+8 - Efeitos de segunda ordem no eixo x: Desprezados;
+9 - Efeitos de segunda ordem no eixo y: Desprezados;
+
+10 - Tabela com situações de cálculo:
+
+   Mdx (kNcm)  Mdy (kNcm)
+0     2750.02        0.00
+1        0.00     1798.97
+
+[1;34m2.5 Verificação da seção à FCO - S.C 0[m
+• Parâmetros principais:
+alfa = -90.00°
+x = 10.96 cm
+d1 = 16.00 cm
+Ha = 20.00 cm
+ymax = 10.00 cm
+Aso = 4.71 cm²
+
+• Verificação em si:
+ER/ES = 1.4638. Verifica!
+
+
+[1;34m2.6 Verificação da seção à FCO - S.C 1[m
+• Parâmetros principais:
+alfa = 0.00°
+x = 25.69 cm
+d1 = 41.00 cm
+Ha = 45.00 cm
+ymax = 22.50 cm
+Aso = 4.71 cm²
+
+• Verificação em si:
+ER/ES = 6.2518. Verifica!
+
+[1;34m2.6 Dados gerais[m
+
+[1;34m2.6.1 Tempo de execução[m
+Tempo total de execução = 0.28 segundos.
+
+[1;34m2.6.2 Data de execução[m
+12/12/2019 - 20:17
+####################################################################################################################################################################################################################################################################################### 
+ 
+ 
+[1;36m1 DADOS DE ENTRADA[m
+
+[1;36m1.1 Dados iniciais[m
+P8
+
+[1;36m1.2 Esforços de projeto[m
+Nsk = 867.55 kN
+Msk,x-topo = 0.00 kNcm
+Msk,x-base = 0.00 kNcm
+Msk,y-topo = 0.00 kNcm
+Msk,y-base = 0.00 kNcm
+
+[1;36m1.3 Critérios de projeto[m
+PDE = 320 cm
+Viga em x/Laje em x = 40 cm
+Viga em y/Laje em y  = 50 cm
+Δc = 10 mm
+CAA = 2
+
+[1;36m1.4 Faixas de materiais[m
+Aço
+   Ø (mm)   R$/m
+0     5.0   0.58
+1     6.3   1.23
+2    10.0   2.42
+3    12.5   4.28
+4    16.0   6.96
+5    20.0  10.88
+
+Concreto
+    fck (MPa)   R$/m³
+0         25  271.45
+1         30  283.90
+
+Formas
+Retangular: 38.33 R$/m²
+Circular: 41.29 R$/m²
+
+[1;36m1.5 Parâmetros da seção transversal[m
+Geometria escolhida: retangular
+
+
+
+[1;34m2 RELATÓRIOS[m
+
+[1;34m2.1 AE possíveis [m
+Há 100 soluções possíveis (a serem verificadas).
+
+[1;34m2.2 Número de soluções verificadas[m
+0
+
+[1;34m2.3 Solução mais econômica[m
+1 - Resistencia e dados da seção
+  • fck = 25.0 MPa
+  • base = 20.0 cm
+  • Altura = 65.0 cm
+  • C = 3.0 cm;
+
+2 - Dados da armadura
+2.1 - Armadura longitudinal
+    • Øl = 10.0 mm
+    • Nx = 3
+    • Ny = 3
+    • Aso = 6.28 cm²
+
+2.2 - Transversal
+    • St = 12.00 cm
+    • Øt = 5.0 mm
+    • Comp. estribo = 157.50 cm
+    • Ngx = 1
+    • Comp. gancho em x = 25.18 cm
+    • Ngy = 0
+
+3 - Custo total (Concreto + Aço + fôrmas)
+  • Custo = 129.35 R$/m
+
+[1;34m2.4 Esforços de cálculo[m
+1 - Classificação do pilar: Interno;
+2 - Esforços de cálculo:
+  • Msk,x-topo = 0.00 kNcm - Msk,x-base = 0.00 kNcm;
+  • Msk,y-topo = 0.00 kNcm - Msk,y-base = 0.00 kNcm;
+3 - Esforço normal de cálculo: 1214.57 kN;
+4 - Excentricidades de projeto (características): 
+  • e1x = 0.00 cm - e1y = 0.00 cm;
+5 - Comprimentos de flambagem: lex = 300.00 cm - ley = 320.00 cm;
+6 - Esbeltez: λx = 51.96 - λy = 17.05;
+7 - Momentos mínimos: 2550.60 kNcm - 4190.27 kNcm;
+8 - Esbeltez limite: λ1x = 35.00 - λ1y = 35.00;
+8 - Efeitos de segunda ordem no eixo x: Devem ser considerados - Mdx,tot = 5221.42  kNcm;
+9 - Efeitos de segunda ordem no eixo y: Desprezados;
+
+10 - Tabela com situações de cálculo:
+
+   Mdx (kNcm)  Mdy (kNcm)
+0     5221.42        0.00
+1        0.00     4190.27
+
+[1;34m2.5 Verificação da seção à FCO - S.C 0[m
+• Parâmetros principais:
+alfa = -90.00°
+x = 13.86 cm
+d1 = 16.00 cm
+Ha = 20.00 cm
+ymax = 10.00 cm
+Aso = 6.28 cm²
+
+• Verificação em si:
+ER/ES = 1.0462. Verifica!
+
+
+[1;34m2.6 Verificação da seção à FCO - S.C 1[m
+• Parâmetros principais:
+alfa = 0.00°
+x = 46.14 cm
+d1 = 61.00 cm
+Ha = 65.00 cm
+ymax = 32.50 cm
+Aso = 6.28 cm²
+
+• Verificação em si:
+ER/ES = 4.6767. Verifica!
+
+[1;34m2.6 Dados gerais[m
+
+[1;34m2.6.1 Tempo de execução[m
+Tempo total de execução = 0.27 segundos.
+
+[1;34m2.6.2 Data de execução[m
+12/12/2019 - 20:17
+####################################################################################################################################################################################################################################################################################### 
+ 
+ 
