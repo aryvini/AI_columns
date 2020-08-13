@@ -1,3 +1,6 @@
 # AI Columns
 
-This project try to build an AI algorithm to help and give estimatives when dimensioning RC columns
+This project aims to build a Machine Learning algorithm to  give the best estimative when dimensioning RC columns deppending on the given inputs:
+
+Loads, material prices xxxxx
+
